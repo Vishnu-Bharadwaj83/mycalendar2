@@ -1,0 +1,7 @@
+Day		Time			Subject
+Thursday	9:10 - 10:15		Language Arts
+		10:35 - 11:40		Social Studies
+		12:10 - 1:15		Science
+Friday		9:10 - 10:15		Math
+		10:35 - 11:40		Exploratory Wheel
+		12:10 - 1:15		Physical Fitness
